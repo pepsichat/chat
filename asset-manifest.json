@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/chat/static/js/app.f3b82de6.chunk.js",
-    "app.js.map": "/chat/static/js/app.f3b82de6.chunk.js.map",
+    "app.js": "/chat/static/js/app.3c124913.chunk.js",
+    "app.js.map": "/chat/static/js/app.3c124913.chunk.js.map",
     "runtime~app.js": "/chat/static/js/runtime~app.31fa755f.js",
     "runtime~app.js.map": "/chat/static/js/runtime~app.31fa755f.js.map",
-    "static/js/2.2ff92fe9.chunk.js": "/chat/static/js/2.2ff92fe9.chunk.js",
-    "static/js/2.2ff92fe9.chunk.js.map": "/chat/static/js/2.2ff92fe9.chunk.js.map",
+    "static/js/2.da79128b.chunk.js": "/chat/static/js/2.da79128b.chunk.js",
+    "static/js/2.da79128b.chunk.js.map": "/chat/static/js/2.da79128b.chunk.js.map",
     "fonts/AntDesign.ttf": "/chat/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/chat/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/chat/./fonts/Feather.ttf",
@@ -24,7 +24,7 @@
     "index.html": "/chat/index.html",
     "manifest.json": "/chat/manifest.json",
     "serve.json": "/chat/serve.json",
-    "static/js/2.2ff92fe9.chunk.js.LICENSE.txt": "/chat/static/js/2.2ff92fe9.chunk.js.LICENSE.txt",
+    "static/js/2.da79128b.chunk.js.LICENSE.txt": "/chat/static/js/2.da79128b.chunk.js.LICENSE.txt",
     "static/media/Pepsi-Logo.png": "/chat/static/media/Pepsi-Logo.32560c85.png",
     "static/media/bell.png": "/chat/static/media/bell.cf04af27.png",
     "static/media/heart.png": "/chat/static/media/heart.23b5c2c0.png",
@@ -33,7 +33,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.31fa755f.js",
-    "static/js/2.2ff92fe9.chunk.js",
-    "static/js/app.f3b82de6.chunk.js"
+    "static/js/2.da79128b.chunk.js",
+    "static/js/app.3c124913.chunk.js"
   ]
 }
